@@ -1,3 +1,5 @@
+.eggs/
+.tox/
 .coverage
 MANIFEST
 coverage.xml
